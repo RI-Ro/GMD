@@ -28,3 +28,4 @@ print(get_gmd(first_number, second_number))
 # Example:
 # import math
 # math.gcd(40, 36) # >>> 4
+#
